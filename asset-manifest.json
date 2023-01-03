@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ddfb04d4.css",
+    "main.js": "/static/js/main.abd139f9.js",
+    "static/media/atm.png": "/static/media/atm.080aaef19139f28a1675.png",
+    "static/media/paintkit2.jpg": "/static/media/paintkit2.34ca5f86b4a0aa18aeaf.jpg",
+    "static/media/acrylic4.jpg": "/static/media/acrylic4.0a2a195ccf27ca751b47.jpg",
+    "static/media/acrylic3.jpg": "/static/media/acrylic3.b9982b54b14db3533d94.jpg",
+    "static/media/paintkit1.jpg": "/static/media/paintkit1.205e707d9b7a3b4d194d.jpg",
+    "static/media/pumaStore.jpg": "/static/media/pumaStore.fa26bba80db9e27ae3dd.jpg",
+    "static/media/MRI.jpg": "/static/media/MRI.ed900fbbaf3228950d91.jpg",
+    "static/media/stick.jpg": "/static/media/stick.7dd253860f6e068fd90e.jpg",
+    "static/media/nike_store_milan.jpg": "/static/media/nike_store_milan.f919783184b3378f5d92.jpg",
+    "static/media/acrylic1.jpg": "/static/media/acrylic1.cc8d43116d22b3d1bd82.jpg",
+    "static/media/dorm2.jpg": "/static/media/dorm2.14ea89415f32e947974f.jpg",
+    "static/media/acrylic2.jpg": "/static/media/acrylic2.db5dd5425da58a0cc793.jpg",
+    "static/media/hp_logo.png": "/static/media/hp_logo.7666edd8953aa7aeefce.png",
+    "static/media/searchLogo.jpg": "/static/media/searchLogo.98e4af3a7b3ea7408117.jpg",
+    "static/media/gapStore.jpg": "/static/media/gapStore.7e1b55c75b4c1641c4e5.jpg",
+    "static/media/fav2.ico": "/static/media/fav2.dcb2e00d75affd1a792b.ico",
+    "static/media/halloween.jpeg": "/static/media/halloween.c692d10de496f8d355b0.jpeg",
+    "static/media/hp.png": "/static/media/hp.f4031ecb3302fca79c21.png",
+    "static/media/scissor1.jpg": "/static/media/scissor1.8883d8d27ac1b2dfc35d.jpg",
+    "static/media/adidasStore.jpg": "/static/media/adidasStore.77f9feae3846d4301317.jpg",
+    "static/media/scholarship.jpg": "/static/media/scholarship.8efaef4c3485acb8b947.jpg",
+    "static/media/combo.jpeg": "/static/media/combo.e6ac96aec2f9efe2b086.jpeg",
+    "static/media/scissor2.jpg": "/static/media/scissor2.03b98af6531fe1a1ff8b.jpg",
+    "static/media/job.jpg": "/static/media/job.0cc9af251d95e5f7994e.jpg",
+    "static/media/resbanner.jpeg": "/static/media/resbanner.15998de482c9a7e7370a.jpeg",
+    "static/media/favicon1.ico": "/static/media/favicon1.20265a7fc128a1884c4d.ico",
+    "static/media/atmicon.png": "/static/media/atmicon.33d857b471f4cef3a3a7.png",
+    "static/media/favicon.ico": "/static/media/favicon.785b72b870f536b0a7cb.ico",
+    "index.html": "/index.html",
+    "main.ddfb04d4.css.map": "/static/css/main.ddfb04d4.css.map",
+    "main.abd139f9.js.map": "/static/js/main.abd139f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddfb04d4.css",
+    "static/js/main.abd139f9.js"
+  ]
+}
